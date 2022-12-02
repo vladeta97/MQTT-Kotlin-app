@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingTop="20sp"
+    android:paddingBottom="20sp"
+    android:layout_marginLeft="10sp"
+    android:layout_marginRight="10sp"
+    android:layout_marginTop="10sp"
+    android:layout_marginBottom="10sp"
+    android:background="@drawable/border_shadow2"
+    android:id="@+id/buttonView">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent">
+
+        <Switch
+            android:id="@+id/value_cb"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:textOff="off"
+            android:showText="false"
+            android:textOn="on"
+            />
+        <TextView
+            android:id="@+id/name_txt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Ime topica"
+            android:textSize="10sp"
+            app:layout_constraintTop_toBottomOf="@id/value_cb"
+            />
+        <TextView
+            android:id="@+id/time_txt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="elapsed time:"
+            android:textSize="10sp"
+            android:layout_marginBottom="15sp"
+            app:layout_constraintTop_toBottomOf="@id/name_txt"
+            />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!--<androidx.appcompat.widget.SwitchCompat
+     android:id="@+id/value_cb"
+     android:layout_width="wrap_content"
+     android:layout_height="match_parent"
+     android:layout_centerHorizontal="true"
+     android:checked="false"
+     android:thumb="@drawable/thumb_selector"
+     app:track="@drawable/track_selector"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintRight_toRightOf="parent"
+     app:layout_constraintLeft_toLeftOf="parent"
+     />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

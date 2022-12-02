@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/border_shadow.xml" value="0.196" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/border_shadow2.xml" value="0.195" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/ic_add.xml" value="0.195" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.195" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/thumb.xml" value="0.195" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/thumb_selector.xml" value="0.195" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/trac.xml" value="0.195" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/track.xml" value="0.195" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/track_selector.xml" value="0.196" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/drawable/tracks.xml" value="0.195" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/add_topic.xml" value="0.2790328973444312" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/button_topic.xml" value="0.33" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/custom_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/fragment.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/fragment_add.xml" value="0.365625" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/fragment_list.xml" value="0.365625" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/fragment_update.xml" value="0.27421875" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/server_view.xml" value="0.365625" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/topic_row.xml" value="0.275" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/topic_view.xml" value="0.275" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/layout/update_topic.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Vladeta/AndroidStudioProjects/TestMQTT/app/src/main/res/menu/delete_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
